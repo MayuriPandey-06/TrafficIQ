@@ -1,0 +1,5 @@
+{
+  "name": "TrafficIQ",
+  "description": "An AI-powered traffic management system that uses Gemini to analyze traffic feeds (photos/videos) for signal optimization, emergency vehicle detection, and hazard alerts.",
+  "requestFramePermissions": []
+}
